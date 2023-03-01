@@ -1,0 +1,1 @@
+nasm -f bin "../src/bootloader.asm" -o "../boot/bootloader.img"
