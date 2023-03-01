@@ -10,8 +10,8 @@ Example: Advancement Made: Hello World!
 
 Tools:
 
-Windows 10 or 11
-Git for Windows
-VMware Workstation Player/Pro or VirtualBox
-Any good code editor (I use VSCode)
-Powershell or Windows Powershell (There's a difference!)
+Windows 10 or 11  
+Git for Windows  
+VMware Workstation Player/Pro or VirtualBox  
+Any good code editor (I use VSCode)  
+Powershell or Windows Powershell (There's a difference!)  
