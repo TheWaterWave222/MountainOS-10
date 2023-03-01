@@ -7,3 +7,11 @@ All the source code is here, and if you want to use it, please do not change wha
 Progress is shown by advancements. As the advancements keep going, the OS gets more functional. 
 
 Example: Advancement Made: Hello World! 
+
+Tools:
+
+Windows 10 or 11
+Git for Windows
+VMware Workstation Player/Pro or VirtualBox
+Any good code editor (I use VSCode)
+Powershell or Windows Powershell (There's a difference!)
